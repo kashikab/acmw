@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/key-AEAAIGA-blue)
+
+
 # ACM-W CTF Practice Repo
 
 Welcome, code sleuth 🖤
